@@ -46,12 +46,13 @@ Common commands:
      
 ### Ruby download
 
-- We must have a modern Ruby Version >= 2.2 in order to develop and build Vagrant. We can download it from:
+- Ruby is A dynamic, open source programming language with a focus on simplicity and productivity. It has an elegant syntax that is natural to read and easy to write
 
-https://github.com/oneclick/rubyinstaller2/releases/download/RubyInstaller-2.6.6-1/rubyinstaller-devkit-2.6.6-1-x64.exe
+- We must have a modern Ruby Version >= 2.2 in order to develop and build Vagrant. We can download it from:
+- https://github.com/oneclick/rubyinstaller2/releases/download/RubyInstaller-2.6.6-1/rubyinstaller-devkit-2.6.6-1-x64.exe
 - To check for the current version follow commands below:
 
-- ![image](https://user-images.githubusercontent.com/115165899/196391428-39cad45b-0a1d-4375-9ab1-7b703d24be88.png)
+![image](https://user-images.githubusercontent.com/115165899/196391428-39cad45b-0a1d-4375-9ab1-7b703d24be88.png)
 
      
      
