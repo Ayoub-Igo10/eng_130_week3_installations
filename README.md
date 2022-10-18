@@ -11,7 +11,7 @@
 ![image](https://user-images.githubusercontent.com/115165899/196390459-eef29c90-2e18-4a86-ae7b-0885f0de33a7.png)
 
 
-Common commands:
+### Common commands:
 
      autocomplete    manages autocomplete installation on host
      box             manages boxes: installation, removal, etc.
